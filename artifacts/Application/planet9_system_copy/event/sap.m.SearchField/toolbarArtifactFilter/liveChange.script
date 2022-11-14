@@ -1,0 +1,3 @@
+var binding = tabArtifacts.getBinding("items");
+var filter = new sap.ui.model.Filter("name", "Contains", this.getValue());
+binding.filter([filter]);

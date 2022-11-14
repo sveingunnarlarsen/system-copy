@@ -1,0 +1,20 @@
+{
+	"id": "cdbe5c1b-c6e8-ec11-b656-0050f2a2304b",
+	"createdAt": "2022-06-10T14:03:31.183Z",
+	"createdBy": "jens-uwe.gross@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "saveUsers",
+	"ver": "22.11.14.134",
+	"description": "save system users via SQL",
+	"content": "file:///content.script",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": true,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "eeb7d97b-63c6-ec11-997e-dc9840109182",
+	"package": "e8ab41b8-63c6-ec11-997e-dc9840109182"
+}

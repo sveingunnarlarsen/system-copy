@@ -1,0 +1,77 @@
+{
+	"id": "e8ab41b8-63c6-ec11-997e-dc9840109182",
+	"createdAt": "2022-04-27T19:53:34.716Z",
+	"createdBy": "ole-andre.haugen@neptune-software.com",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/sveingunnarlarsen/system-copy.git",
+		"testServers": []
+	},
+	"name": "neptunesoftware-dxp-abb-systemcopy",
+	"description": "System Copy of Artifacts and Data",
+	"ver": "22.11.14.1513",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "762b0c2f-64c6-ec11-997e-dc9840109182",
+			"application": "planet9_system_copy",
+			"title": "System Copy",
+			"description": "System Copy"
+		}
+	],
+	"api": [
+		{
+			"id": "be5a8aff-63c6-ec11-997e-dc9840109182",
+			"name": "systemcopy",
+			"description": "System Copy",
+			"apiGroup": "487b8dd6-63c6-ec11-997e-dc9840109182"
+		}
+	],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [
+		{
+			"id": "efb7d97b-63c6-ec11-997e-dc9840109182",
+			"name": "save",
+			"description": null
+		},
+		{
+			"id": "cdbe5c1b-c6e8-ec11-b656-0050f2a2304b",
+			"name": "saveUsers",
+			"description": "save system users via SQL"
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "eeb7d97b-63c6-ec11-997e-dc9840109182",
+			"name": "systemcopy",
+			"description": "Used for System Copy App"
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [
+		{
+			"id": "487b8dd6-63c6-ec11-997e-dc9840109182",
+			"name": "System Copy",
+			"description": null
+		}
+	],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": []
+}

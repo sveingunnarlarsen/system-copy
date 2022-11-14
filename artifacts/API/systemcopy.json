@@ -1,0 +1,68 @@
+{
+	"id": "be5a8aff-63c6-ec11-997e-dc9840109182",
+	"createdAt": "2022-04-27T19:55:34.320Z",
+	"createdBy": "ole-andre.haugen@neptune-software.com",
+	"auth": [],
+	"endpoints": [],
+	"paths": [
+		{
+			"id": "6B3AA4A4-0A77-4F43-AEB6-254B611431DA",
+			"method": "POST",
+			"path": "/save",
+			"description": "",
+			"parameters": [],
+			"headers": [],
+			"responses": [
+				{
+					"status": "200",
+					"description": "OK",
+					"headers": [],
+					"body": []
+				}
+			],
+			"serverScript": "EFB7D97B-63C6-EC11-997E-DC9840109182"
+		},
+		{
+			"id": "6D87754F-AA63-47F2-9E90-B2497DE3A817",
+			"method": "POST",
+			"path": "/saveUsers",
+			"description": "",
+			"parameters": [],
+			"headers": [],
+			"responses": [
+				{
+					"status": "200",
+					"description": "OK",
+					"headers": [],
+					"body": []
+				}
+			],
+			"serverScript": "CDBE5C1B-C6E8-EC11-B656-0050F2A2304B"
+		}
+	],
+	"definitions": [],
+	"documentation": [],
+	"name": "systemcopy",
+	"endpoint": "/api/serverscript/systemcopy",
+	"ver": "22.6.10.144",
+	"version": "1.0",
+	"description": "System Copy",
+	"mediaType": null,
+	"securitySchemes": null,
+	"swaggerURI": null,
+	"swaggerSystem": null,
+	"apiType": "script",
+	"about": null,
+	"enableProxy": false,
+	"restrictAccess": false,
+	"enableTrace": false,
+	"enableIDE": false,
+	"internalAPI": false,
+	"isPublic": false,
+	"tlsAllowUntrusted": false,
+	"useOwnProcess": false,
+	"package": "e8ab41b8-63c6-ec11-997e-dc9840109182",
+	"apiGroup": "487b8dd6-63c6-ec11-997e-dc9840109182",
+	"apiFormat": 0,
+	"roles": []
+}

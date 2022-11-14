@@ -1,0 +1,20 @@
+{
+	"id": "efb7d97b-63c6-ec11-997e-dc9840109182",
+	"createdAt": "2022-04-27T19:51:57.456Z",
+	"createdBy": "ole-andre.haugen@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "save",
+	"ver": "22.11.14.1220",
+	"description": null,
+	"content": "file:///content.script",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "eeb7d97b-63c6-ec11-997e-dc9840109182",
+	"package": "e8ab41b8-63c6-ec11-997e-dc9840109182"
+}
